@@ -1,0 +1,4 @@
+add_subdirectory(common)
+add_subdirectory(login_server)
+add_subdirectory(world_server)
+add_subdirectory(channel_server)
